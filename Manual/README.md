@@ -1,20 +1,23 @@
+## Documentation
 
-Documentation
 Until recently, the only instructions for Duender were YouTube videos.
 
-Thanks to the community — especially a user named TallothEndill — a detailed and structured full manual now exists.
+Thanks to the community — especially a user named **TallothEndill** — a detailed and structured full manual now exists.
 
 The manual includes:
 
-Step-by-step assembly instructions
-Complete BOM
-Required parts list
-Useful links
-Practical recommendations
+- Step-by-step assembly instructions  
+- Complete BOM  
+- Required parts list  
+- Useful links  
+- Practical recommendations  
+
 Huge thanks to TallothEndill and everyone who contributed.
 
 At the moment, the manual is still in progress:
 
-(Duender Manual)
+*[(Duender Manual)](https://drive.google.com/file/d/1r_e_1Pna0u54sdXipSJhN7h276Pe2rJI/view)*
 
 Once finalized, it will be permanently integrated into this repository.
+
+---
