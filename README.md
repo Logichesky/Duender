@@ -160,4 +160,4 @@ See the `LICENSE` file for details.
 
 Duender is an open-source project developed by **Sergei Irbenek (Irbis3D)**.
 
-Attribution is not required by the license, but is highly appreciated.
+Attribution is required by the license and highly appreciated.
